@@ -4,12 +4,6 @@ Welcome to the **Introduction to LLMs** course repository!
 
 This repository contains Jupyter notebooks designed to help you learn the basics of Large Language Models through hands-on examples and exercises.
 
-The notebooks are designed to accompany the Introduction to Large Language Models course which can be found here: 
-
-https://learn.365datascience.com/courses/preview/intro-to-llms/
-
-https://www.udemy.com/course/intro-to-large-language-models-llms/
-
 ## Installed Packages
 
 These are the installed packages and versions used for this course. All were installed in a conda environment (see below for how I created this). 
